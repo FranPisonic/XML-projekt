@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <artwork>
+        <title>Zvjezdana noć</title>
+        <author>Vincent van Gogh</author>
+        <year>1889</year>
+        <description>Jedna od najpoznatijih slika impresionizma.</description>
+        <image>images/starry_night.webp</image>
+    </artwork>
+    <artwork>
+        <title>Mona Lisa</title>
+        <author>Leonardo da Vinci</author>
+        <year>1503</year>
+        <description>Najpoznatiji portret na svijetu.</description>
+        <image>images/mona_lisa.webp</image>
+    </artwork>
+    <artwork>
+        <title>Krik</title>
+        <author>Edvard Munch</author>
+        <year>1893</year>
+        <description>Ikonična slika simbolizma.</description>
+        <image>images/the_scream.jpg</image>
+    </artwork>
+    <artwork>
+        <title>Đavo u Plavom</title>
+        <author>Vladimir Varlaj</author>
+        <year>1929</year>
+        <description>Modernistička slika koja izaziva kontroverze.</description>
+        <image>images/devil_in_blue.jpeg</image>
+    </artwork>
+    <artwork>
+        <title>Autoportret s Oštricom</title>
+        <author>Frida Kahlo</author>
+        <year>1940</year>
+        <description>Autoportret slavne meksičke slikarice.</description>
+        <image>images/self_portrait_with_blade.jpeg</image>
+    </artwork>
+    <artwork>
+        <title>Rodinov Poljubac</title>
+        <author>Auguste Rodin</author>
+        <year>1889</year>
+        <description>Skulptura koja prikazuje ljubavni trenutak.</description>
+        <image>images/the_kiss.jpg</image>
+    </artwork>
+    <artwork>
+        <title>Prorok</title>
+        <author>Gibran Khalil Gibran</author>
+        <year>1923</year>
+        <description>Jedno od najpoznatijih djela libanonskog pisca i slikara.</description>
+        <image>images/the_prophet.jpg</image>
+    </artwork>
+    <artwork>
+        <title>Američki Gothic</title>
+        <author>Grant Wood</author>
+        <year>1930</year>
+        <description>Realistički portret ruralnog života u Americi.</description>
+        <image>images/american_gothic.jpg</image>
+    </artwork>
+</gallery>
